@@ -1,15 +1,14 @@
 [![alt text](https://s3-sa-east-1.amazonaws.com/www.vinta.com.br/images/dont_delete/devchecklist-logo.png "Devchecklists Logo")](https://www.devchecklist.com)
 
 
+# A/B Testing Checklist
+A checklist we use when creating A/B tests on our projects
 
 ## Adding a New Language:
   * [ ] To add a new language you will need to create another markdown file containing the new [acronym language:](http://sustainablesources.com/resources/country-abbreviations/)
     * E.g. `checklist-pt.md`.
   * [ ] No further approval will be necessary;
   * [ ] The new checklist language should be visible on Devckecklists after you saved this new file on the repository.
-
-# A/B Testing Checklist
-A checklist we use when creating A/B tests on our projects
 
 ## Important Notes:
   * [ ] Markdown is the only way to write checklists on Devchecklists;
